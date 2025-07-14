@@ -804,7 +804,7 @@
     <maven.min.version>3.5.0</maven.min.version>
     <java.min.version>${compileSource}</java.min.version>
     <!-- Dependencies -->
-    <hadoop-three.version>3.3.5</hadoop-three.version>
+    <hadoop-three.version>3.4.0</hadoop-three.version>
     <!-- These must be defined here for downstream build tools that don't look at profiles.
     -->
     <hadoop.version>${hadoop-three.version}</hadoop.version>
@@ -869,7 +869,7 @@
     <spy.version>2.12.2</spy.version>
     <bouncycastle.version>1.76</bouncycastle.version>
     <skyscreamer.version>1.5.1</skyscreamer.version>
-    <kerby.version>1.0.1</kerby.version>
+    <kerby.version>2.1.0</kerby.version>
     <commons-crypto.version>1.1.0</commons-crypto.version>
     <curator.version>4.2.0</curator.version>
     <!-- Plugin Dependencies -->
